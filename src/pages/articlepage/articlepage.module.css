@@ -1,0 +1,21 @@
+
+.articlepage h2,h1,h3{
+    margin: 40px;
+     padding: 20px;
+     display: flex;
+     
+ }
+.articlepage{
+    background-color: black;
+    margin: 50px;
+    align-content: center;
+     
+
+    
+}
+.hed{
+    background-color: brown;
+    margin: 20px;
+    
+    display: flexbox;
+}

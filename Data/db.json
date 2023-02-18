@@ -1,0 +1,68 @@
+{
+        
+          "articles": [
+            {
+                "id": 1,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان یک",
+                "readingtime": 5200,
+                "text": "یک لیست طولانی"
+            },
+            {
+                "id": 2,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان دو",
+                "readingtime": 25,
+                "text": "یک لیست طولانی"
+            },
+            {
+                "id": 3,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان سه",
+                "readingtime":4 ,
+                "text": "یک لیست طولانی"
+            }
+            ,
+            {
+                "id": 4,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان سه",
+                "readingtime": 3,
+                "text": "یک لیست طولانی"
+            }
+            ,
+            {
+                "id": 5,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان سه",
+                "readingtime": 5,
+                "text": "یک لیست طولانی"
+            }
+            ,
+            {
+                "id": 6,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان سه",
+                "readingtime": 3,
+                "text": "یک لیست طولانی"
+            }
+            ,
+            {
+                "id": 7,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان سه",
+                "readingtime": 3,
+                "text": "یک لیست طولانی"
+            }
+            ,
+            {
+                "id": 8,
+                "imageurl": "https://ik.imagekit.io/ikmedia/backlit.jpg",
+                "title": "عنوان سه",
+                "readingtime": 3,
+                "text": "یک لیست طولانی"
+            }
+        ]
+
+    
+}
